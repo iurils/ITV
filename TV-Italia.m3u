@@ -1,11 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 #EXTM3U\
+#EXTM3U
 #EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1" tvg-logo="rai1.svg",Rai 1\
 https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma_1800-5000.m3u8\
 #EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2" tvg-logo="rai2.svg",Rai 2\
