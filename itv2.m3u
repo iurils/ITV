@@ -1,52 +1,52 @@
 #EXTM3U
 
-#EXTGRP:RAI - Principais
-#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="Rai 1" group-title="RAI - Principais",Rai 1 (it)
-https://raiey03-live.akamaized.net/hls/live/2013821/raiey03/rai1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-name="Rai 2" group-title="RAI - Principais",Rai 2 (it)
-https://raiey03-live.akamaized.net/hls/live/2013821/raiey03/rai2/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-name="Rai 3" group-title="RAI - Principais",Rai 3 (it)
-https://raiey03-live.akamaized.net/hls/live/2013821/raiey03/rai3/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai4.it@SD" tvg-name="Rai 4" group-title="RAI - Principais",Rai 4 (it) [Geo-blocked]
-http://cdn.cnam.sara.ru/hls/rai4.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD" tvg-name="Rai 5" group-title="RAI - Principais",Rai 5 (it) [Geo-blocked]
-http://cdn.cnam.sara.ru/hls/rai5.m3u8
+#EXTGRP:RAI - Principais (BYPASS VIA SUÍÇA)
+#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="Rai 1" group-title="RAI - Principais (BYPASS SUÍÇA)",Rai 1 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-name="Rai 2" group-title="RAI - Principais (BYPASS SUÍÇA)",Rai 2 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-name="Rai 3" group-title="RAI - Principais (BYPASS SUÍÇA)",Rai 3 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 
 #EXTGRP:RAI - Temáticos e News
-#EXTINF:-1 tvg-id="RaiMovie.it@SD" tvg-name="Rai Movie" group-title="RAI - Temáticos e News",Rai Movie (it) [Geo-blocked]
+#EXTINF:-1 tvg-id="Rai4.it@SD" tvg-name="Rai 4" group-title="RAI - Temáticos e News",Rai 4 (it) [LINK ORIGINAL - Testar com Smart DNS]
+http://cdn.cnam.sara.ru/hls/rai4.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD" tvg-name="Rai 5" group-title="RAI - Temáticos e News",Rai 5 (it) [LINK ORIGINAL - Testar com Smart DNS]
+http://cdn.cnam.sara.ru/hls/rai5.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it@SD" tvg-name="Rai Movie" group-title="RAI - Temáticos e News",Rai Movie (it) [LINK ORIGINAL - Testar com Smart DNS]
 http://cdn.cnam.sara.ru/hls/raimovie.m3u8
-#EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-name="Rai Premium" group-title="RAI - Temáticos e News",Rai Premium (it) [Geo-blocked]
+#EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-name="Rai Premium" group-title="RAI - Temáticos e News",Rai Premium (it) [LINK ORIGINAL - Testar com Smart DNS]
 http://cdn.cnam.sara.ru/hls/raipremium.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-name="Rai Storia" group-title="RAI - Temáticos e News",Rai Storia (it) [Geo-blocked]
-http://cdn.cnam.sara.ru/hls/raistoria.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it@SD" tvg-name="Rai Yoyo" group-title="RAI - Temáticos e News",Rai Yoyo (it) [LINK ORIGINAL - Testar com Smart DNS]
+http://cdn.cnam.sara.ru/hls/raiyoyo.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-name="Rai Sport" group-title="RAI - Temáticos e News",Rai Sport (it) [LINK ORIGINAL - Testar com Smart DNS]
+https://raiey03-live.akamaized.net/hls/live/2013821/raiey03/raisport/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-name="Rai News 24" group-title="RAI - Temáticos e News",Rai News 24 (it)
 https://raiey03-live.akamaized.net/hls/live/2013821/raiey03/rainews24/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-name="Rai Sport" group-title="RAI - Temáticos e News",Rai Sport (it)
-https://raiey03-live.akamaized.net/hls/live/2013821/raiey03/raisport/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-name="Rai Gulp" group-title="RAI - Temáticos e News",Rai Gulp (it)
 http://cdn.cnam.sara.ru/hls/raigulp.m3u8
-#EXTINF:-1 tvg-id="RaiYoyo.it@SD" tvg-name="Rai Yoyo" group-title="RAI - Temáticos e News",Rai Yoyo (it) [Geo-blocked]
-http://cdn.cnam.sara.ru/hls/raiyoyo.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-name="Rai Storia" group-title="RAI - Temáticos e News",Rai Storia (it)
+http://cdn.cnam.sara.ru/hls/raistoria.m3u8
 
-#EXTGRP:Mediaset - Principais
-#EXTINF:-1 tvg-id="Rete4.it@HD" tvg-name="Rete 4" group-title="Mediaset - Principais",Rete 4 (it)
-http://ythls.tedata.net/live/3145/rete4.m3u8
-#EXTINF:-1 tvg-id="Canale5.it@HD" tvg-name="Canale 5" group-title="Mediaset - Principais",Canale 5 (it)
-http://ythls.tedata.net/live/3143/canale5.m3u8
-#EXTINF:-1 tvg-id="Italia1.it@HD" tvg-name="Italia 1" group-title="Mediaset - Principais",Italia 1 (it)
-http://ythls.tedata.net/live/3144/italia1.m3u8
-#EXTINF:-1 tvg-id="20.it@SD" tvg-name="20 Mediaset" group-title="Mediaset - Principais",20 Mediaset (it) [Geo-blocked]
-http://ythls.tedata.net/live/3148/20mediaset.m3u8
-#EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-name="27 TwentySeven" group-title="Mediaset - Principais",27 TwentySeven (it) [Geo-blocked]
+#EXTGRP:Mediaset - Principais (BYPASS VIA SUÍÇA)
+#EXTINF:-1 tvg-id="Rete4.it@HD" tvg-name="Rete 4" group-title="Mediaset - Principais (BYPASS SUÍÇA)",Rete 4 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-id="Canale5.it@HD" tvg-name="Canale 5" group-title="Mediaset - Principais (BYPASS SUÍÇA)",Canale 5 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTINF:-1 tvg-id="Italia1.it@HD" tvg-name="Italia 1" group-title="Mediaset - Principais (BYPASS SUÍÇA)",Italia 1 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTINF:-1 tvg-id="20.it@SD" tvg-name="20 Mediaset" group-title="Mediaset - Principais (BYPASS SUÍÇA)",20 Mediaset (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/venti/browser-HLS8/venti.m3u8
+#EXTINF:-1 tvg-id="La5.it@SD" tvg-name="La 5" group-title="Mediaset - Principais (BYPASS SUÍÇA)",La 5 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/la5/browser-HLS8/la5.m3u8
+#EXTINF:-1 tvg-id="Iris.it@SD" tvg-name="Iris" group-title="Mediaset - Principais (BYPASS SUÍÇA)",Iris (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/iris/browser-HLS8/iris.m3u8
+#EXTINF:-1 tvg-id="Italia2.it@SD" tvg-name="Italia 2" group-title="Mediaset - Principais (BYPASS SUÍÇA)",Italia 2 (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/italia2/browser-HLS8/italia2.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it@SD" tvg-name="Mediaset Extra" group-title="Mediaset - Principais (BYPASS SUÍÇA)",Mediaset Extra (it) [BYPASS - MAIS ESTÁVEL]
+https://viamotionhsi.netplus.ch/live/eds/extra/browser-HLS8/extra.m3u8
+#EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-name="27 TwentySeven" group-title="Mediaset - Principais (BYPASS SUÍÇA)",27 TwentySeven (it) [LINK ORIGINAL]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
-#EXTINF:-1 tvg-id="La5.it@SD" tvg-name="La 5" group-title="Mediaset - Principais",La 5 (it) [Geo-blocked]
-http://ythls.tedata.net/live/3146/la5.m3u8
-#EXTINF:-1 tvg-id="Iris.it@SD" tvg-name="Iris" group-title="Mediaset - Principais",Iris (it) [Geo-blocked]
-http://ythls.tedata.net/live/3147/iris.m3u8
-#EXTINF:-1 tvg-id="MediasetExtra.it@SD" tvg-name="Mediaset Extra" group-title="Mediaset - Principais",Mediaset Extra (it) [Geo-blocked]
-http://ythls.tedata.net/live/3150/mediasetextra.m3u8
-#EXTINF:-1 tvg-id="Italia2.it@SD" tvg-name="Italia 2" group-title="Mediaset - Principais",Italia 2 (it) [Geo-blocked]
-http://ythls.tedata.net/live/3149/italia2.m3u8
 
 #EXTGRP:Discovery, LA7 e Afins (Abertos)
 #EXTINF:-1 tvg-id="LA7.it@HD" tvg-name="LA7" group-title="Discovery, LA7 e Afins (Abertos)",LA7 (it)
@@ -79,7 +79,7 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 https://liveturner.akamaized.net/95b0be1a00834dd2b81c021bc5a35b9c/eu-central-1/6284318116001/playlist.m3u8
 
 
-#EXTGRP:Canais Premium (Potencialmente Pagos)
+#EXTGRP:Canais Premium (Instáveis - Necessita de Teste)
 #EXTINF:-1 tvg-id="SkyUno.it@HD" tvg-name="Sky Uno" group-title="Canais Premium (Instável)",Sky Uno (it)
 http://cdn.cnam.sara.ru/hls/skyuno.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUno.it@HD" tvg-name="Sky Cinema Uno" group-title="Canais Premium (Instável)",Sky Cinema Uno (it)
