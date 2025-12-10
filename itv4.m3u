@@ -1,53 +1,127 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1 (Bypass)" tvg-logo="rai1.svg" group-title="TV/Rádio Italiana",Rai 1
+#EXTINF:-1,Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2 (Bypass)" tvg-logo="rai2.svg" group-title="TV/Rádio Italiana",Rai 2
+#EXTINF:-1,Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 tvg-id="rai-3" tvg-name="Rai 3 (Bypass)" tvg-logo="rai3.svg" group-title="TV/Rádio Italiana",Rai 3
+#EXTINF:-1,Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTINF:-1 tvg-id="rete4" tvg-name="Rete 4 (Bypass)" tvg-logo="rete4.svg" group-title="TV/Rádio Italiana",Rete 4
+#EXTINF:-1,Rete 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
-#EXTINF:-1 tvg-id="canale5" tvg-name="Canale 5 (Bypass)" tvg-logo="canale5.svg" group-title="TV/Rádio Italiana",Canale 5
+#EXTINF:-1,Canale 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
-#EXTINF:-1 tvg-id="italia1" tvg-name="Italia 1 (Bypass)" tvg-logo="italia1.svg" group-title="TV/Rádio Italiana",Italia 1
+#EXTINF:-1,Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-#EXTINF:-1 tvg-id="la7" tvg-name="LA7" tvg-logo="la7.svg" group-title="TV/Rádio Italiana",LA7
+#EXTINF:-1,LA7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 tvg-id="tv8" tvg-name="TV8 (Bypass)" tvg-logo="tv8.svg" group-title="TV/Rádio Italiana",TV8
+#EXTINF:-1,TV8
 https://uvotv.zappr.stream/269.m3u8
-#EXTINF:-1 tvg-id="nove" tvg-name="NOVE" tvg-logo="nove.svg" group-title="TV/Rádio Italiana",NOVE
+#EXTINF:-1,NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="20 Mediaset (Proxy)" tvg-logo="20.svg" group-title="TV/Rádio Italiana",20 Mediaset
-https://square-breeze-c9e1.iurils.workers.dev/https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="rai-4" tvg-name="Rai 4 (Proxy)" tvg-logo="rai4.svg" group-title="TV/Rádio Italiana",Rai 4
-https://square-breeze-c9e1.iurils.workers.dev/https://raiquattro2-live.akamaized.net/hls/live/598316/raiquattro2/raiquattro2/playlist.m3u8
-#EXTINF:-1 tvg-id="iris" tvg-name="Iris (Proxy)" tvg-logo="iris.svg" group-title="TV/Rádio Italiana",Iris
-https://square-breeze-c9e1.iurils.workers.dev/https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="rai-5" tvg-name="Rai 5 (Proxy)" tvg-logo="rai5.svg" group-title="TV/Rádio Italiana",Rai 5
-https://square-breeze-c9e1.iurils.workers.dev/https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/raicinque1/playlist_ma.m3u8
-#EXTINF:-1 tvg-id="raimovie" tvg-name="Rai Movie (Proxy)" tvg-logo="raimovie.svg" group-title="TV/Rádio Italiana",Rai Movie
-https://square-breeze-c9e1.iurils.workers.dev/https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8
-#EXTINF:-1 tvg-id="raipremium" tvg-name="Rai Premium (Proxy)" tvg-logo="raipremium.svg" group-title="TV/Rádio Italiana",Rai Premium
-https://square-breeze-c9e1.iurils.workers.dev/https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium1/playlist_ma.m3u8
-#EXTINF:-1 tvg-id="cielo" tvg-name="Cielo (Bypass)" tvg-logo="cielo.svg" group-title="TV/Rádio Italiana",Cielo
+#EXTINF:-1,20 Mediaset
+https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1,Rai 4
+https://raiquattro2-live.akamaized.net/hls/live/598316/raiquattro2/raiquattro2/playlist.m3u8
+#EXTINF:-1,Iris
+https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1,Rai 5
+https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/raicinque1/playlist_ma.m3u8
+#EXTINF:-1,Rai Movie
+https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8
+#EXTINF:-1,Rai Premium
+https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium1/playlist_ma.m3u8
+#EXTINF:-1,Cielo
 https://uvotv.zappr.stream/281.m3u8
-#EXTINF:-1 tvg-id="twentyseven" tvg-name="TwentySeven (Proxy)" tvg-logo="twentyseven.svg" group-title="TV/Rádio Italiana",TwentySeven
-https://square-breeze-c9e1.iurils.workers.dev/https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="tv2000" tvg-name="TV2000" tvg-logo="tv2000.svg" group-title="TV/Rádio Italiana",TV2000
+#EXTINF:-1,TwentySeven
+https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1,TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
-#EXTINF:-1 tvg-id="la7cinema" tvg-name="LA7 Cinema" tvg-logo="la7cinema.svg" group-title="TV/Rádio Italiana",LA7 Cinema
-# **[Removido - DASH]**
-#EXTINF:-1 tvg-id="la5" tvg-name="La5 (Proxy)" tvg-logo="la5.svg" group-title="TV/Rádio Italiana",La5
-https://square-breeze-c9e1.iurils.workers.dev/https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="realtime" tvg-name="Real Time" tvg-logo="realtime.svg" group-title="TV/Rádio Italiana",Real Time
+#EXTINF:-1,LA7 Cinema
+https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
+#EXTINF:-1,La5
+https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1,Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-id="qvc" tvg-name="QVC" tvg-logo="qvc.svg" group-title="TV/Rádio Italiana",QVC
+#EXTINF:-1,QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="foodnetwork.svg" group-title="TV/Rádio Italiana",Food Network
+#EXTINF:-1,Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-id="cine34" tvg-name="Cine34 (Bypass)" tvg-logo="cine34.svg" group-title="TV/Rádio Italiana",Cine34
+#EXTINF:-1,Cine34
 https://uvotv.zappr.stream/92.m3u8
-#EXTINF:-1 tvg-id="focus" tvg-name="Focus (Bypass)" tvg-logo="focus.svg" group-title="TV/Rádio Italiana",Focus
+#EXTINF:-1,Focus
 https://uvotv.zappr.stream/89.m3u8
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL 102.5" tvg-logo="rtl.svg" group-title="TV/Rádio Italiana",RTL 102.5
-# **[Removido - DASH]**
+#EXTINF:-1,RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/manifest.mpd
+#EXTINF:-1,Discovery
+https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
+#EXTINF:-1,Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:-1,Top Crime
+https://uvotv.zappr.stream/86.m3u8
+#EXTINF:-1,Boing
+https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
+#EXTINF:-1,K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1,Rai Gulp
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1,Rai Yoyo
+https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
+#EXTINF:-1,Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1,Boing Plus
+https://uvotv.zappr.stream/101.m3u8
+#EXTINF:-1,Cartoonito
+https://liveturner.akamaized.net/95b0be1a00834dd2b81c021bc5a35b9c/eu-central-1/6284318116001/playlist.m3u8
+#EXTINF:-1,Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
+#EXTINF:-1,Rai News 24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1,Italia 2
+https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1,Sky TG24
+https://uvotv.zappr.stream/293.m3u8
+#EXTINF:-1,TGcom24
+https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1,DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1,Casa Italia 53
+https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
+#EXTINF:-1,Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1,Mediaset Extra
+https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1,HGTV - Home & Garden
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1,Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport/browser-HLS8/raisport.m3u8
+#EXTINF:-1,Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport/browser-HLS8/raisport.m3u8
+#EXTINF:-1,Motor Trend
+https://d261z175y2g71s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p3w1m3y099n57/Motortrend_IT.m3u8
+#EXTINF:-1,Sportitalia
+https://si-01.si-cdn.com/sportitalia/playlist.m3u8
+#EXTINF:-1,il61
+https://5a1178b42cc03.streamlock.net/travel/travel/manifest.mpd
+#EXTINF:-1,Donna TV
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/manifest.mpd
+#EXTINF:-1,Canale 63
+https://uvotv.zappr.stream/257.m3u8
+#EXTINF:-1,SuperTennis
+https://vrs.hotch.it/supertennis/supertennis.m3u8
+#EXTINF:-1,ALMA TV
+https://d3v34z52m29m3g.cloudfront.net/out/v1/374d75470d014909ac429074ff428c03/index.m3u8
+#EXTINF:-1,Italia Sport
+https://uvotv.zappr.stream/170.m3u8
+#EXTINF:-1,HS Channel
+https://d42c300843cc4be1a766c891636274e7.msvdn.net/live/S63909772/nNn2w71j9i8X/manifest.mpd
+#EXTINF:-1,BFC
+https://d2w708jxtf7n9d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p3w1m3y099n57/BFC.m3u8
+#EXTINF:-1,Alice
+https://cdn2.live-tv.it/alice-tv/smil:alice.smil/playlist.m3u8
+#EXTINF:-1,Marcato TV
+https://stream1.xdevel.com/video1s975936-70/stream/playlist.m3u8
+#EXTINF:-1,Telepace
+https://stream1.xdevel.com/video1s975936-71/stream/playlist.m3u8
+#EXTINF:-1,Telecampione
+https://5a1178b42cc03.streamlock.net/telecampione/telecampione/manifest.mpd
+#EXTINF:-1,LaC
+https://live.lacnews24.it/hls/live/2012111/LaC/index.m3u8
