@@ -1,81 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1 (Bypass)" tvg-logo="rai1.svg" group-title="TV Italiana (Bypass Zappr)",Rai 1
+#EXTINF:-1 tvg-id="rai-1" tvg-name="Rai 1 (Bypass)" tvg-logo="rai1.svg" group-title="TV Italiana (Nacional)",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2 (Bypass)" tvg-logo="rai2.svg" group-title="TV Italiana (Bypass Zappr)",Rai 2
+#EXTINF:-1 tvg-id="rai-2" tvg-name="Rai 2 (Bypass)" tvg-logo="rai2.svg" group-title="TV Italiana (Nacional)",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 tvg-id="rai-3" tvg-name="Rai 3 (Bypass)" tvg-logo="rai3.svg" group-title="TV Italiana (Bypass Zappr)",Rai 3
+#EXTINF:-1 tvg-id="rai-3" tvg-name="Rai 3 (Bypass)" tvg-logo="rai3.svg" group-title="TV Italiana (Nacional)",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTINF:-1 tvg-id="Rete4" tvg-name="Rete 4 (Bypass)" tvg-logo="rete4.svg" group-title="TV Italiana (Bypass Zappr)",Rete 4
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
-#EXTINF:-1 tvg-id="Canale5" tvg-name="Canale 5 (Bypass)" tvg-logo="canale5.svg" group-title="TV Italiana (Bypass Zappr)",Canale 5
+#EXTINF:-1 tvg-id="rai-4" tvg-name="Rai 4 (Bypass)" tvg-logo="rai4.svg" group-title="TV Italiana (Nacional)",Rai 4
+https://viamotionhsi.netplus.ch/live/eds/rai4/browser-HLS8/rai4.m3u8
+#EXTINF:-1 tvg-id="rai-5" tvg-name="Rai 5 (Bypass)" tvg-logo="rai5.svg" group-title="TV Italiana (Nacional)",Rai 5
+https://viamotionhsi.netplus.ch/live/eds/rai5/browser-HLS8/rai5.m3u8
+#EXTINF:-1 tvg-id="rai-movie" tvg-name="Rai Movie (Bypass)" tvg-logo="raimovie.svg" group-title="TV Italiana (Nacional)",Rai Movie
+https://viamotionhsi.netplus.ch/live/eds/raimovie/browser-HLS8/raimovie.m3u8
+#EXTINF:-1 tvg-id="rai-premium" tvg-name="Rai Premium (Bypass)" tvg-logo="raipremium.svg" group-title="TV Italiana (Nacional)",Rai Premium
+https://viamotionhsi.netplus.ch/live/eds/raipremium/browser-HLS8/raipremium.m3u8
+#EXTINF:-1 tvg-id="rai-sport" tvg-name="Rai Sport (Bypass)" tvg-logo="raisport.svg" group-title="TV Italiana (Nacional)",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport/browser-HLS8/raisport.m3u8
+#EXTINF:-1 tvg-id="rai-storia" tvg-name="Rai Storia (Bypass)" tvg-logo="raistoria.svg" group-title="TV Italiana (Nacional)",Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 tvg-id="rai-gulp" tvg-name="Rai Gulp (Bypass)" tvg-logo="raigulp.svg" group-title="TV Italiana (Nacional)",Rai Gulp
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 tvg-id="rai-yoyo" tvg-name="Rai YoYo (Bypass)" tvg-logo="raiyoyo.svg" group-title="TV Italiana (Nacional)",Rai YoYo
+https://viamotionhsi.netplus.ch/live/eds/raiyoyo/browser-HLS8/raiyoyo.m3u8
+#EXTINF:-1 tvg-id="rai-scuola" tvg-name="Rai Scuola (Bypass)" tvg-logo="raiscuola.svg" group-title="TV Italiana (Nacional)",Rai Scuola
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 tvg-id="RaiNews24" tvg-name="Rai News 24" tvg-logo="rainews24.svg" group-title="TV Italiana (Nacional)",Rai News 24
+https://live.akamaized.net/hls/live/604515/rainews24/rainews24/playlist_ma_800-4000.m3u8
+#EXTINF:-1 tvg-id="Canale5" tvg-name="Canale 5 (Bypass)" tvg-logo="canale5.svg" group-title="TV Italiana (Nacional)",Canale 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
-#EXTINF:-1 tvg-id="Italia1" tvg-name="Italia 1 (Bypass)" tvg-logo="italia1.svg" group-title="TV Italiana (Bypass Zappr)",Italia 1
+#EXTINF:-1 tvg-id="Rete4" tvg-name="Rete 4 (Bypass)" tvg-logo="rete4.svg" group-title="TV Italiana (Nacional)",Rete 4
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-id="Italia1" tvg-name="Italia 1 (Bypass)" tvg-logo="italia1.svg" group-title="TV Italiana (Nacional)",Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-#EXTINF:-1 tvg-id="237" tvg-name="LA7" tvg-logo="la7.svg" group-title="TV Italiana (Bypass Zappr)",LA7
+#EXTINF:-1 tvg-id="SkyTG24" tvg-name="Sky TG24" tvg-logo="skytg24.svg" group-title="TV Italiana (Nacional)",Sky TG24
+https://live.sky.it/channels/skytg24/hls/skytg24.m3u8
+#EXTINF:-1 tvg-id="ClassTVModa" tvg-name="Class TV Moda" tvg-logo="classtvmoda.svg" group-title="TV Italiana (Nacional)",Class TV Moda
+https://www.dailymotion.com/cdn/live/video/x9gjcsc.mpd
+#EXTINF:-1 tvg-id="237" tvg-name="LA7" tvg-logo="la7.svg" group-title="TV Italiana (Nacional)",LA7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="NOVE" tvg-logo="nove.svg" group-title="TV Italiana (Bypass Zappr)",NOVE
+#EXTINF:-1 tvg-id="118" tvg-name="NOVE" tvg-logo="nove.svg" group-title="TV Italiana (Nacional)",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="Real Time" tvg-logo="realtime.svg" group-title="TV Italiana (Bypass Zappr)",Real Time
+#EXTINF:-1 tvg-id="346" tvg-name="Real Time" tvg-logo="realtime.svg" group-title="TV Italiana (Nacional)",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-id="1348" tvg-name="Food Network" tvg-logo="foodnetwork.svg" group-title="TV Italiana (Bypass Zappr)",Food Network
+#EXTINF:-1 tvg-id="1348" tvg-name="Food Network" tvg-logo="foodnetwork.svg" group-title="TV Italiana (Nacional)",Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="Discovery" tvg-logo="discovery.svg" group-title="TV Italiana (Bypass Zappr)",Discovery
+#EXTINF:-1 tvg-id="124" tvg-name="Discovery" tvg-logo="discovery.svg" group-title="TV Italiana (Nacional)",Discovery
 https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
-#EXTINF:-1 tvg-id="191" tvg-name="Giallo" tvg-logo="giallo.svg" group-title="TV Italiana (Bypass Zappr)",Giallo
+#EXTINF:-1 tvg-id="191" tvg-name="Giallo" tvg-logo="giallo.svg" group-title="TV Italiana (Nacional)",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="DMAX" tvg-logo="dmax.svg" group-title="TV Italiana (Bypass Zappr)",DMAX
+#EXTINF:-1 tvg-id="137" tvg-name="DMAX" tvg-logo="dmax.svg" group-title="TV Italiana (Nacional)",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-id="225" tvg-name="K2" tvg-logo="k2.svg" group-title="TV Italiana (Bypass Zappr)",K2
+#EXTINF:-1 tvg-id="225" tvg-name="K2" tvg-logo="k2.svg" group-title="TV Italiana (Nacional)",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="Frisbee" tvg-logo="frisbee" group-title="TV Italiana (Bypass Zappr)",Frisbee
+#EXTINF:-1 tvg-id="189" tvg-name="Frisbee" tvg-logo="frisbee.svg" group-title="TV Italiana (Nacional)",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 tvg-id="1646" tvg-name="HGTV - Home & Garden" tvg-logo="hgtv.svg" group-title="TV Italiana (Bypass Zappr)",HGTV - Home & Garden
+#EXTINF:-1 tvg-id="1646" tvg-name="HGTV - Home & Garden" tvg-logo="hgtv.svg" group-title="TV Italiana (Nacional)",HGTV - Home & Garden
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 tvg-id="633" tvg-name="TV2000" tvg-logo="tv2000.svg" group-title="TV Italiana (Bypass Zappr)",TV2000
+#EXTINF:-1 tvg-id="633" tvg-name="TV2000" tvg-logo="tv2000.svg" group-title="TV Italiana (Nacional)",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="QVC" tvg-logo="qvc.svg" group-title="TV Italiana (Bypass Zappr)",QVC
+#EXTINF:-1 tvg-id="130" tvg-name="QVC" tvg-logo="qvc.svg" group-title="TV Italiana (Nacional)",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="Super!" tvg-logo="super.svg" group-title="TV Italiana (Bypass Zappr)",Super!
+#EXTINF:-1 tvg-id="412" tvg-name="Super!" tvg-logo="super.svg" group-title="TV Italiana (Nacional)",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="1489" tvg-name="RTL 102.5" tvg-logo="rtl.svg" group-title="TV Italiana (Bypass Zappr)",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/manifest.mpd
-#EXTINF:-1 tvg-name="Radio Zeta" tvg-logo="radiozeta.svg" group-title="TV Italiana (Bypass Zappr)",Radio Zeta
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/manifest.mpd
-#EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="rdssocialtv.svg" group-title="TV Italiana (Bypass Zappr)",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 tvg-id="IT50001295" tvg-name="Telecupole" tvg-logo="telecupole.svg" group-title="TV Italiana (Bypass Zappr)",Telecupole
-https://cdn.jwplayer.com/live/broadcast/NXTAdMkM.mpd
-#EXTINF:-1 tvg-name="Dr. Palmas TV" tvg-logo="drpalmastv.svg" group-title="TV Italiana (Bypass Zappr)",Dr. Palmas TV
-https://streamer2.premio.link/dr_palmastv/index.m3u8
-#EXTINF:-1 tvg-name="Byoblu" tvg-logo="byoblu.svg" group-title="TV Italiana (Bypass Zappr)",Byoblu
-https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/manifest.mpd
-#EXTINF:-1 tvg-name="Radio NTR 264" tvg-logo="ntr264" group-title="TV Italiana (Bypass Zappr)",Radio NTR 264
-https://primaset.servizistreaming.it/canale2/index.html
-#EXTINF:-1 tvg-name="ArteOraTV" tvg-logo="hbbtv.svg" group-title="TV Italiana (Bypass Zappr)",ArteOraTV
-https://cdn1.streamshow.it/hbbtv-arteoratv/arteoratv/manifest.mpd
-#EXTINF:-1 tvg-name="Canale 268" tvg-logo="canale268" group-title="TV Italiana (Bypass Zappr)",Canale 268
-https://cdn1.streamshow.it/hbbtv-canale268/canale268/manifest.mpd
-#EXTINF:-1 tvg-name="TCI" tvg-logo="tci.svg" group-title="TV Italiana (Bypass Zappr)",TCI
-https://cdn.jwplayer.com/live/broadcast/NXTAdMkM.mpd
-#EXTINF:-1 tvg-name="Momento TV" tvg-logo="hbbtv.svg" group-title="TV Italiana (Bypass Zappr)",Momento TV
-https://host1.momentotv.live:28443/cmaf/mosaic251/index.mpd
-#EXTINF:-1 tvg-name="Welcome In" tvg-logo="welcomein" group-title="TV Italiana (Bypass Zappr)",Welcome In
-https://fms.premio.link/welcomein/playlist.m3u8
-#EXTINF:-1 tvg-name="Promo Shopping" tvg-logo="promoshopping" group-title="TV Italiana (Bypass Zappr)",Promo Shopping
-https://host1.momentotv.live:28443/cmaf/telecomunicare/index.mpd
-#EXTINF:-1 tvg-name="RMC2" tvg-logo="rmc2" group-title="TV Italiana (Bypass Zappr)",RMC2
-https://stream.rcs.revma.com/fxp289cp81uvv
-#EXTINF:-1 tvg-id="183" tvg-name="France 24" tvg-logo="france24.svg" group-title="TV Italiana (Bypass Zappr)",France 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-name="Sicilia 242" tvg-logo="sicilia242" group-title="TV Italiana (Bypass Zappr)",Sicilia 242
-https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/manifest.mpd
-#EXTINF:-1 tvg-name="Babel" tvg-logo="babel" group-title="TV Italiana (Bypass Zappr)",Babel
-https://stream10.xdevel.com/video15s975955-2171/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Genius 240" tvg-logo="genius240" group-title="TV Italiana (Bypass Zappr)",Genius 240
-https://uvotv.zappr.stream/149.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Caliente" tvg-logo="rtlcaliente.svg" group-title="TV Italiana (Bypass Zappr)",RTL 102.5 Caliente
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/manifest.mpd
-#EXTINF:-1 tvg-name="RTL 102.5 Bro&Sis" tvg-logo="rtlbrosis.svg" group-title="TV Italiana (Bypass Zappr)",RTL 102.5 Bro&Sis
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/manifest.mpd
-#EXTINF:-1 tvg-id="255" tvg-name="Radio Italia" tvg-logo="radioitalia.svg" group-title="TV Italiana (Bypass Zappr)",Radio Italia
-https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
