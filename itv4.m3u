@@ -1,0 +1,184 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="rai-1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/32/RAI_1_logo.svg" group-title="Italia",Rai 1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+
+#EXTINF:-1 tvg-id="rai-2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f5/RAI_2_logo.svg" group-title="Italia",Rai 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+
+#EXTINF:-1 tvg-id="rai-3" tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2f/RAI_3_logo.svg" group-title="Italia",Rai 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+
+#EXTINF:-1 tvg-id="rete-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Rete_4_logo.svg" group-title="Italia",Rete 4
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+
+#EXTINF:-1 tvg-id="canale-5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Canale_5_logo.svg" group-title="Italia",Canale 5
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+
+#EXTINF:-1 tvg-id="italia-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Italia_1_logo.svg" group-title="Italia",Italia 1
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+
+#EXTINF:-1 tvg-id="la7" tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/25/LA7_logo.svg" group-title="Italia",LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-id="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/12/TV8_logo.svg" group-title="Italia",TV8
+https://uvotv.zappr.stream/269.m3u8
+
+#EXTINF:-1 tvg-id="nove" tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4b/Nove_logo.svg" group-title="Italia",NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-id="dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/DMAX_Italia_logo.svg" group-title="Italia",DMAX
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dmax/Live.m3u8
+
+#EXTINF:-1 tvg-id="focus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Focus_Italia_logo.svg" group-title="Italia",Focus
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-focus/Live.m3u8
+
+#EXTINF:-1 tvg-id="real-time" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Real_Time_Italia_logo.svg" group-title="Italia",Real Time
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-realtime/Live.m3u8
+
+#EXTINF:-1 tvg-id="sky-uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Sky_Uno_logo.svg" group-title="Italia",Sky Uno
+https://uvotv.zappr.stream/sky-uno.m3u8
+
+#EXTINF:-1 tvg-id="paramount-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Paramount_Network_logo.svg" group-title="Italia",Paramount Network
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/paramount-network.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investigation_Discovery_logo.svg" group-title="Italia",Investigation Discovery
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/investigation-discovery.m3u8
+
+#EXTINF:-1 tvg-id="cielo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cielo_Italia_logo.svg" group-title="Italia",Cielo
+https://uvotv.zappr.stream/cielo.m3u8
+
+#EXTINF:-1 tvg-id="la5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/La5_logo.svg" group-title="Italia",La5
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/la5.m3u8
+
+#EXTINF:-1 tvg-id="mediaset-extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Mediaset_Extra_logo.svg" group-title="Italia",Mediaset Extra
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/mediaset-extra.m3u8
+
+#EXTINF:-1 tvg-id="mediaset-italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mediaset_Italia_logo.svg" group-title="Italia",Mediaset Italia
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/mediaset-italia.m3u8
+
+#EXTINF:-1 tvg-id="italia2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Italia2_logo.svg" group-title="Italia",Italia 2
+https://uvotv.zappr.stream/italia2.m3u8
+
+#EXTINF:-1 tvg-id="italia-gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Italia_Gold_logo.svg" group-title="Italia",Italia Gold
+https://uvotv.zappr.stream/italia-gold.m3u8
+
+#EXTINF:-1 tvg-id="topcrime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TopCrime_Italia_logo.svg" group-title="Italia",Top Crime
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/topcrime.m3u8
+
+#EXTINF:-1 tvg-id="dmax-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/DMAX_Italia_logo.svg" group-title="Italia",DMAX HD
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/dmax-hd.m3u8
+
+#EXTINF:-1 tvg-id="focus-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Focus_Italia_logo.svg" group-title="Italia",Focus HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/focus-hd.m3u8
+
+#EXTINF:-1 tvg-id="real-time-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Real_Time_Italia_logo.svg" group-title="Italia",Real Time HD
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/real-time-hd.m3u8
+
+#EXTINF:-1 tvg-id="sky-uno-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Sky_Uno_logo.svg" group-title="Italia",Sky Uno HD
+https://uvotv.zappr.stream/sky-uno-hd.m3u8
+
+#EXTINF:-1 tvg-id="paramount-network-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Paramount_Network_logo.svg" group-title="Italia",Paramount Network HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/paramount-network-hd.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investigation_Discovery_logo.svg" group-title="Italia",Investigation Discovery HD
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/investigation-discovery-hd.m3u8
+
+#EXTINF:-1 tvg-id="cielo-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cielo_Italia_logo.svg" group-title="Italia",Cielo HD
+https://uvotv.zappr.stream/cielo-hd.m3u8
+
+#EXTINF:-1 tvg-id="la5-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/La5_logo.svg" group-title="Italia",La5 HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/la5-hd.m3u8
+
+#EXTINF:-1 tvg-id="mediaset-extra-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Mediaset_Extra_logo.svg" group-title="Italia",Mediaset Extra HD
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/mediaset-extra-hd.m3u8
+
+#EXTINF:-1 tvg-id="mediaset-italia-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mediaset_Italia_logo.svg" group-title="Italia",Mediaset Italia HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/mediaset-italia-hd.m3u8
+
+#EXTINF:-1 tvg-id="italia2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Italia2_logo.svg" group-title="Italia",Italia 2 HD
+https://uvotv.zappr.stream/italia2-hd.m3u8
+
+#EXTINF:-1 tvg-id="motor-trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Motor_Trend_logo.svg" group-title="Italia",Motor Trend
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/motor-trend.m3u8
+
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Motor_Trend_logo.svg" group-title="Italia",Motor Trend HD
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/motor-trend-hd.m3u8
+
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Food_Network_logo.svg" group-title="Italia",Food Network
+https://uvotv.zappr.stream/food-network.m3u8
+
+#EXTINF:-1 tvg-id="food-network-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Food_Network_logo.svg" group-title="Italia",Food Network HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/food-network-hd.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Discovery_Channel_logo.svg" group-title="Italia",Discovery Channel
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/discovery-channel.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Discovery_Channel_logo.svg" group-title="Italia",Discovery Channel HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/discovery-channel-hd.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/National_Geographic_Channel_logo.svg" group-title="Italia",National Geographic
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/national-geographic.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/National_Geographic_Channel_logo.svg" group-title="Italia",National Geographic HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/national-geographic-hd.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Discovery_Science_logo.svg" group-title="Italia",Discovery Science
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/discovery-science.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Discovery_Science_logo.svg" group-title="Italia",Discovery Science HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/discovery-science-hd.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Animal_Planet_logo.svg" group-title="Italia",Animal Planet
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/animal-planet.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Animal_Planet_logo.svg" group-title="Italia",Animal Planet HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/animal-planet-hd.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cartoon_Network_logo.svg" group-title="Italia",Cartoon Network
+https://uvotv.zappr.stream/cartoon-network.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cartoon_Network_logo.svg" group-title="Italia",Cartoon Network HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cartoon-network-hd.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Boomerang_logo.svg" group-title="Italia",Boomerang
+https://uvotv.zappr.stream/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="boomerang-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Boomerang_logo.svg" group-title="Italia",Boomerang HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/boomerang-hd.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nick_Jr_logo.svg" group-title="Italia",Nick Jr
+https://uvotv.zappr.stream/nick-jr.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nick_Jr_logo.svg" group-title="Italia",Nick Jr HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/nick-jr-hd.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nickelodeon_2017_logo.svg" group-title="Italia",Nickelodeon
+https://uvotv.zappr.stream/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nickelodeon_2017_logo.svg" group-title="Italia",Nickelodeon HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/nickelodeon-hd.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoonito_logo.svg" group-title="Italia",Cartoonito
+https://uvotv.zappr.stream/cartoonito.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoonito_logo.svg" group-title="Italia",Cartoonito HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cartoonito-hd.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg" group-title="Italia",Disney Channel
+https://uvotv.zappr.stream/disney-channel.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg" group-title="Italia",Disney Channel HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/disney-channel-hd.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Junior_logo.svg" group-title="Italia",Disney Junior
+https://uvotv.zappr.stream/disney-junior.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Junior_logo.svg" group-title="Italia",Disney Junior HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/disney-junior-hd.m3u8
+
+#EXTINF:-1 tvg-id="boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Boing_logo.svg" group-title="Italia",Boing
+https://uvotv.zappr.stream/boing.m3u8
+
+#EXTINF:-1 tvg-id="boing-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Boing_logo.svg" group-title="Italia",Boing HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/boing-hd.m3u8
