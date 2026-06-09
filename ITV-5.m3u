@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" group-title="🇮🇹 Altri Nazionali",LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneComedy.it" tvg-name="Sony One Comedy TV" group-title="🎬 Sony One",Sony One Comedy TV
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneComedy_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneThriller.it" tvg-name="Sony One Thriller TV" group-title="🎬 Sony One",Sony One Thriller TV
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneThriller_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneBlacklist.it" tvg-name="Sony One Blacklist" group-title="🎬 Sony One",Sony One Blacklist
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneBlacklist_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneFaves.it" tvg-name="Sony One Faves" group-title="🎬 Sony One",Sony One Faves
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneFaves_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneComedyHits.it" tvg-name="Sony One Comedy HITS" group-title="🎬 Sony One",Sony One Comedy HITS
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneComedyHITS_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneActionHits.it" tvg-name="Sony One Action HITS" group-title="🎬 Sony One",Sony One Action HITS
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneActionHITS_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneDragonsDen.it" tvg-name="Sony One Dragons' Den" group-title="🎬 Sony One",Sony One Dragons' Den
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneDragonsDen_IT.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneSharkTank.it" tvg-name="Sony One Shark Tank" group-title="🎬 Sony One",Sony One Shark Tank
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xyz/SonyOneSharkTank_IT.m3u8
+
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" group-title="🇮🇹 Rai",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 
@@ -65,24 +92,6 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="TGcom24.it" tvg-name="TGcom24" group-title="📺 Mediaset",TGcom24
 https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="👶 Kids",Boing
-https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="👶 Kids",Cartoonito
-https://liveturner.akamaized.net/95b0be1a00834dd2b81c021bc5a35b9c/eu-central-1/6284318116001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" group-title="👶 Kids",K2
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
-
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" group-title="👶 Kids",Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="👶 Kids",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" group-title="🇮🇹 Altri Nazionali",LA7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="🇮🇹 Altri Nazionali",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
