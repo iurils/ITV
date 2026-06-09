@@ -1,169 +1,193 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://fast.zappr.stream/it/logos/rai1.webp" group-title="🇮🇹 Rai",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" group-title="🇮🇹 Rai",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://fast.zappr.stream/it/logos/rai2.webp" group-title="🇮🇹 Rai",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" group-title="🇮🇹 Rai",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://fast.zappr.stream/it/logos/rai3.webp" group-title="🇮🇹 Rai",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="🇮🇹 Rai",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://fast.zappr.stream/it/logos/rai4.webp" group-title="🇮🇹 Rai",Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" group-title="🇮🇹 Rai",Rai 4
 https://raiquattro2-live.akamaized.net/hls/live/598316/raiquattro2/raiquattro2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://fast.zappr.stream/it/logos/rai5.webp" group-title="🇮🇹 Rai",Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" group-title="🇮🇹 Rai",Rai 5
 https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/raicinque1/playlist_ma.m3u8
 
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://fast.zappr.stream/it/logos/raimovie.webp" group-title="🇮🇹 Rai",Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" group-title="🇮🇹 Rai",Rai Movie
 https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8
 
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://fast.zappr.stream/it/logos/raipremium.webp" group-title="🇮🇹 Rai",Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" group-title="🇮🇹 Rai",Rai Premium
 https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium1/playlist_ma.m3u8
 
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://fast.zappr.stream/it/logos/rainews24.webp" group-title="🇮🇹 Rai",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="🇮🇹 Rai",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://fast.zappr.stream/it/logos/raisport.webp" group-title="🇮🇹 Rai",Rai Sport
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" group-title="🇮🇹 Rai",Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport/browser-HLS8/raisport.m3u8
 
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://fast.zappr.stream/it/logos/raistoria.webp" group-title="🇮🇹 Rai",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="🇮🇹 Rai",Rai Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://fast.zappr.stream/it/logos/raigulp.webp" group-title="🇮🇹 Rai",Rai Gulp
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" group-title="🇮🇹 Rai",Rai Gulp
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://fast.zappr.stream/it/logos/raiyoyo.webp" group-title="🇮🇹 Rai",Rai Yoyo
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" group-title="🇮🇹 Rai",Rai Yoyo
 https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://fast.zappr.stream/it/logos/canale5.webp" group-title="📺 Mediaset",Canale 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="📺 Mediaset",Canale 5
 https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://fast.zappr.stream/it/logos/italia1.webp" group-title="📺 Mediaset",Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" group-title="📺 Mediaset",Italia 1
 https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://fast.zappr.stream/it/logos/rete4.webp" group-title="📺 Mediaset",Rete 4
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" group-title="📺 Mediaset",Rete 4
 https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La5" tvg-logo="https://fast.zappr.stream/it/logos/la5.webp" group-title="📺 Mediaset",La5
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La5" group-title="📺 Mediaset",La5
 https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://fast.zappr.stream/it/logos/italia2.webp" group-title="📺 Mediaset",Italia 2
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" group-title="📺 Mediaset",Italia 2
 https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset" tvg-logo="https://fast.zappr.stream/it/logos/20mediaset.webp" group-title="📺 Mediaset",20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset" group-title="📺 Mediaset",20 Mediaset
 https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://fast.zappr.stream/it/logos/iris.webp" group-title="📺 Mediaset",Iris
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="📺 Mediaset",Iris
 https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="TwentySeven.it" tvg-name="TwentySeven" tvg-logo="https://fast.zappr.stream/it/logos/twentyseven.webp" group-title="📺 Mediaset",TwentySeven
+#EXTINF:-1 tvg-id="TwentySeven.it" tvg-name="TwentySeven" group-title="📺 Mediaset",TwentySeven
 https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="https://fast.zappr.stream/it/logos/mediasete.webp" group-title="📺 Mediaset",Mediaset Extra
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" group-title="📺 Mediaset",Mediaset Extra
 https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="TGcom24.it" tvg-name="TGcom24" tvg-logo="https://fast.zappr.stream/it/logos/tgcom24.webp" group-title="📺 Mediaset",TGcom24
+#EXTINF:-1 tvg-id="TGcom24.it" tvg-name="TGcom24" group-title="📺 Mediaset",TGcom24
 https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://fast.zappr.stream/it/logos/dmax.webp" group-title="🔍 Discovery",DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="👶 Kids",Boing
+https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://fast.zappr.stream/it/logos/realtime.webp" group-title="🔍 Discovery",Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" group-title="👶 Kids",Cartoonito
+https://liveturner.akamaized.net/95b0be1a00834dd2b81c021bc5a35b9c/eu-central-1/6284318116001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="https://fast.zappr.stream/it/logos/foodnetwork.webp" group-title="🔍 Discovery",Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" group-title="👶 Kids",K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV - Home & Garden" tvg-logo="https://fast.zappr.stream/it/logos/hgtv.webp" group-title="🔍 Discovery",HGTV - Home & Garden
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" group-title="👶 Kids",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://fast.zappr.stream/it/logos/motortrend.webp" group-title="🔍 Discovery",Motor Trend
-https://d261z175y2g71s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p3w1m3y099n57/Motortrend_IT.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="👶 Kids",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery" tvg-logo="https://fast.zappr.stream/it/logos/discovery.webp" group-title="🔍 Discovery",Discovery
-https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
-
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-logo="https://fast.zappr.stream/it/logos/giallo.webp" group-title="🔍 Discovery",Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
-
-#EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" tvg-logo="https://fast.zappr.stream/it/logos/la7.webp" group-title="🇮🇹 Altri Nazionali",LA7
+#EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" group-title="🇮🇹 Altri Nazionali",LA7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://fast.zappr.stream/it/logos/tv2000.webp" group-title="🇮🇹 Altri Nazionali",TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="🇮🇹 Altri Nazionali",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" tvg-logo="https://fast.zappr.stream/it/logos/supertennis.webp" group-title="🇮🇹 Altri Nazionali",SuperTennis
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="⚽ Sport",SuperTennis
 https://d2bbbc1corbwv1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/SupertennisIT.m3u8
 
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://fast.zappr.stream/it/logos/tv8.webp" group-title="🇮🇹 Altri Nazionali",TV8
-https://uvotv.zappr.stream/269.m3u8
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" group-title="🇮🇹 Altri Nazionali",TV8
+http://uvotv.zappr.stream/269.m3u8
 
-#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE" tvg-logo="https://fast.zappr.stream/it/logos/nove.webp" group-title="🇮🇹 Altri Nazionali",NOVE
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE" group-title="🇮🇹 Altri Nazionali",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-logo="https://fast.zappr.stream/it/logos/cielo.webp" group-title="🇮🇹 Altri Nazionali",Cielo
-https://uvotv.zappr.stream/281.m3u8
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" group-title="🇮🇹 Altri Nazionali",Cielo
+http://uvotv.zappr.stream/281.m3u8
 
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-logo="https://fast.zappr.stream/it/logos/focus.webp" group-title="🇮🇹 Altri Nazionali",Focus
-https://uvotv.zappr.stream/89.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" group-title="🇮🇹 Altri Nazionali",Focus
+http://uvotv.zappr.stream/89.m3u8
 
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://fast.zappr.stream/it/logos/cine34.webp" group-title="🇮🇹 Altri Nazionali",Cine34
-https://uvotv.zappr.stream/92.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="🇮🇹 Altri Nazionali",Cine34
+http://uvotv.zappr.stream/92.m3u8
 
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="https://fast.zappr.stream/it/logos/topcrime.webp" group-title="🇮🇹 Altri Nazionali",Top Crime
-https://uvotv.zappr.stream/86.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" group-title="🇮🇹 Altri Nazionali",Top Crime
+http://uvotv.zappr.stream/86.m3u8
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://fast.zappr.stream/it/logos/sportitalia.webp" group-title="⚽ Sport",Sportitalia
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" group-title="🔍 Discovery",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="🔍 Discovery",DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" group-title="🔍 Discovery",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="🔍 Discovery",HGTV
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" group-title="🔍 Discovery",Motor Trend
+https://d261z175y2g71s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p3w1m3y099n57/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery" group-title="🔍 Discovery",Discovery
+https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
+
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" group-title="🔍 Discovery",Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="⚽ Sport",Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_sportital-sportitalia-samsung-italy/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Inter247.it" tvg-name="INTER 24/7" tvg-logo="https://fast.zappr.stream/it/logos/inter247.webp" group-title="⚽ Sport",INTER 24/7
-https://amg27604-amg27604c2-amgplt0007.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c2-amgplt0007/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FIFA+.it" tvg-name="FIFA+" tvg-logo="https://fast.zappr.stream/it/logos/fifa.webp" group-title="⚽ Sport",FIFA+
-https://cabe7a5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c0l0YWxpYW5fSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TopGear.it" tvg-name="Top Gear" tvg-logo="https://fast.zappr.stream/it/logos/topgear.webp" group-title="⚽ Sport",Top Gear
-https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkyNewsInt.it" tvg-name="Sky News International" tvg-logo="https://fast.zappr.stream/it/logos/skynews.webp" group-title="📰 News",Sky News International
+#EXTINF:-1 tvg-id="SkyNewsInt.it" tvg-name="Sky News International" group-title="📰 News",Sky News International
 https://dqco14bu26p3z.cloudfront.net/30505/88826014/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IN DIRETTA" tvg-logo="https://fast.zappr.stream/it/logos/euronews.webp" group-title="📰 News",Euronews IN DIRETTA
+#EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews" group-title="📰 News",Euronews
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMzcyMjE4ZTQtODFmMC00MzQxLWIwZWUtYzlkOWNhMWQzNzc4IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjoxfQ==/live/eds/euronews-it/25674/euronews-it.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.it" tvg-name="Bloomberg TV+" tvg-logo="https://fast.zappr.stream/it/logos/bloomberg.webp" group-title="📰 News",Bloomberg TV+
+#EXTINF:-1 tvg-id="BloombergTV.it" tvg-name="Bloomberg TV+" group-title="📰 News",Bloomberg TV+
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 tvg-id="France24.it" tvg-name="FRANCE 24 FAST" tvg-logo="https://fast.zappr.stream/it/logos/france24.webp" group-title="📰 News",FRANCE 24 FAST
+#EXTINF:-1 tvg-id="France24.it" tvg-name="France 24" group-title="📰 News",France 24
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00106-france24-france24-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.it" tvg-name="CNBC" tvg-logo="https://fast.zappr.stream/it/logos/cnbc.webp" group-title="📰 News",CNBC
+#EXTINF:-1 tvg-id="CNBC.it" tvg-name="CNBC" group-title="📰 News",CNBC
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="Radio Italia Live" tvg-logo="https://fast.zappr.stream/it/logos/radioitalia.webp" group-title="🎵 Musica",Radio Italia Live
+#EXTINF:-1 tvg-id="AlJazeera.it" tvg-name="Al Jazeera" group-title="📰 News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0007.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="Radio Italia Live" group-title="🎵 Musica",Radio Italia Live
 https://radioitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_radioital-radioitaly-samsung-italy/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoPop.it" tvg-name="Vevo Pop" tvg-logo="https://fast.zappr.stream/it/logos/vevopop.webp" group-title="🎵 Musica",Vevo Pop
+#EXTINF:-1 tvg-id="VevoPop.it" tvg-name="Vevo Pop" group-title="🎵 Musica",Vevo Pop
 https://d3lljkiqez7zii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yrcdpqa0iqstp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo70s.it" tvg-name="Vevo '70s & '80s" tvg-logo="https://fast.zappr.stream/it/logos/vevo70s.webp" group-title="🎵 Musica",Vevo '70s & '80s
-https://d1n329euzmul63.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r3cli7e98vul7/Vevo70sand80s_IT.m3u8
-
-#EXTINF:-1 tvg-id="Vevo90s.it" tvg-name="Vevo '90s & '00s" tvg-logo="https://fast.zappr.stream/it/logos/vevo90s.webp" group-title="🎵 Musica",Vevo '90s & '00s
-https://d1ncbjs1sfvd8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uco2xgvyj5r3w/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RockTV.it" tvg-name="Rock TV" tvg-logo="https://fast.zappr.stream/it/logos/rocktv.webp" group-title="🎵 Musica",Rock TV
+#EXTINF:-1 tvg-id="RockTV.it" tvg-name="Rock TV" group-title="🎵 Musica",Rock TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YuGiOh.it" tvg-name="Yu-Gi-Oh!" tvg-logo="https://fast.zappr.stream/it/logos/yugioh.webp" group-title="👶 Kids",Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="BBCEarth.it" tvg-name="BBC Earth" group-title="🌍 Documentari",BBC Earth
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.it" tvg-name="WildEarth" group-title="🌍 Documentari",WildEarth
+https://amg01290-wildearthmediap-wildearth-samsungit-4i7si.amagi.tv/playlist/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.it" tvg-name="Top Gear" group-title="🚗 Motori",Top Gear
+https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.it" tvg-name="Yu-Gi-Oh!" group-title="👶 Kids",Yu-Gi-Oh!
 https://amg01796-amg01796c17-samsung-it-7079.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Inuyasha.it" tvg-name="Inuyasha" tvg-logo="https://fast.zappr.stream/it/logos/inuyasha.webp" group-title="👶 Kids",Inuyasha
+#EXTINF:-1 tvg-id="Inuyasha.it" tvg-name="Inuyasha" group-title="👶 Kids",Inuyasha
 https://amg17293-dynit-amg17293c1-samsung-it-2676.playouts.now.amagi.tv/playlist/amg17293-dynitsrl-bleach-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MashaBear.it" tvg-name="Masha e Orso" tvg-logo="https://fast.zappr.stream/it/logos/masha.webp" group-title="👶 Kids",Masha e Orso
+#EXTINF:-1 tvg-id="MashaBear.it" tvg-name="Masha e Orso" group-title="👶 Kids",Masha e Orso
 https://amg01954-amg01954c4-samsung-it-10210.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaeorso-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teletubbies.it" tvg-name="Teletubbies" tvg-logo="https://fast.zappr.stream/it/logos/teletubbies.webp" group-title="👶 Kids",Teletubbies
+#EXTINF:-1 tvg-id="Teletubbies.it" tvg-name="Teletubbies" group-title="👶 Kids",Teletubbies
 https://d2np8lwyhxd27p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-om34v718rz14h/master.m3u8
+
+#EXTINF:-1 tvg-id="HellKitchen.it" tvg-name="Hell's Kitchen" group-title="🍳 Cucina",Hell's Kitchen
+https://amg00654-itv-amg00654c29-samsung-it-5491.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitaly-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso" group-title="🍳 Cucina",Gambero Rosso
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-a49v4inq2owpt.m3u8
+
+#EXTINF:-1 tvg-id="FIFAplus.it" tvg-name="FIFA+" group-title="⚽ Sport",FIFA+
+https://cabe7a5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c0l0YWxpYW5fSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inter247.it" tvg-name="INTER 24/7" group-title="⚽ Sport",INTER 24/7
+https://amg27604-amg27604c2-amgplt0007.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c2-amgplt0007/playlist.m3u8
